@@ -20,5 +20,5 @@ Exit/Return to Main Menu: Press the ESC key.
 🚀 Tech Stack & Setup:  
 Requirements
 Language: C++                                                                                                                                 
-Graphics Library: OpenGL / GLUT (FreeGLUT) 
+Graphics Library: OpenGL / GLUT (FreeGLUT)                                                                                               
 IDE Context: Developed and configured using Code::Blocks (includes .cbp project and layout setup).
