@@ -1,4 +1,5 @@
-# Velocity-Run Computer Graphics Project 
+# Velocity-Run
+Computer Graphics Project 
 
 An exciting, action-packed 3D endless racing game built using C++ and OpenGL (GLUT). Navigate through multiple dynamic maps, dodge traffic, collect coins, and test your reflexes as the speed keeps increasing!
 
