@@ -9,12 +9,14 @@ Dynamic Obstacles: Dodge different types of incoming vehicles (cars, trucks, bus
 Power-ups & Mechanics: Collect golden coins to boost your score and increase your racing speed.
 Increasing Difficulty: The game accelerates over time, challenging your survival instincts and reflexes.
 Heads-Up Display (HUD): Live score and game status tracking seamlessly rendered on your screen.
+
 🛠️ Controls:  
 The controls adapt dynamically depending on the active game mode or map:
 
 Steering/Movement: Use the Arrow Keys (Left/Right/Up/Down) or 'A' / 'D' keys to switch lanes and dodge obstacles.
 Restart Game: Press 'R' or 'r' when the game is over to reset your score and start fresh.
 Exit/Return to Main Menu: Press the ESC key.
+
 🚀 Tech Stack & Setup:  
 Requirements
 Language: C++
